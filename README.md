@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Listing Github Repositories (REST version)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The application lists all the github repositories in my [profile](https://github.com/sam45564). You can customize this by changing the *Line 5* on `src/components/List.jsx` and add your profile details to list all the public repositories.
 
